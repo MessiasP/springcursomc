@@ -1,4 +1,4 @@
-  package com.messiassouza.cursomc.resources.exceptions;
+  package com.messiassouza.cursomc.resources.exception;
 
 import javax.servlet.http.HttpServletRequest;
 
